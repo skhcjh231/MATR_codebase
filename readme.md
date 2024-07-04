@@ -15,7 +15,7 @@
 
 ## Download datasets & trained weights (THUMOS14 dataset only)
 
-    [link](https://drive.google.com/drive/folders/1-V3TZNHrhb-1pnwKZvLCw-Ga56dx1pcb?usp=sharing)
+[link](https://drive.google.com/drive/folders/1-V3TZNHrhb-1pnwKZvLCw-Ga56dx1pcb?usp=sharing)
     
 
 ## Run train scripts
