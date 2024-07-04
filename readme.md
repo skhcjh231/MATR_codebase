@@ -9,7 +9,7 @@
 - CUDA 11.7
 - Pytorch 2.0.0
 
-## environment installation
+## Environment installation
     
     pip install -r requirements.txt
 
