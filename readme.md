@@ -28,17 +28,17 @@
 
 ## File structure
 
-    ── data/ <br/>
-    │   │── thumos_all_feature_val_V3.pickle <br/>
-    │   │── thumos_all_feature_test_V3.pickle <br/>
+    ├── data/ <br/>
+    │   ├── thumos_all_feature_val_V3.pickle <br/>
+    │   ├── thumos_all_feature_test_V3.pickle <br/>
     │   └── thumos14_v2.json <br/>
-    ── checkpoint/ <br/>
+    ├── checkpoint/ <br/>
     │   └── best_epoch.pth <br/>
-    ── criterion/ <br/>
-    ── Evaluation/ <br/>
-    ── models/ <br/>
-    ── scripts/ <br/>
-    ── util/ <br/>
+    ├── criterion/ <br/>
+    ├── Evaluation/ <br/>
+    ├── models/ <br/>
+    ├── scripts/ <br/>
+    ├── util/ <br/>
     dataset.py <br/>
     eval.py <br/>
     main.py <br/>
