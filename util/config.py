@@ -47,7 +47,7 @@ def make_parser():
     parser.add_argument('--min_lr', default=1e-8, type=float)
     parser.add_argument('--max_lr', default=1e-5, type=float)
     parser.add_argument('--weight_decay', default=1e-4, type=float)
-    parser.add_argument('--lr_gamma', default=0.3, type=float)
+    parser.add_argument('--lr_gamma', default=0.9, type=float)
     parser.add_argument('--lr_Tup', default=3, type=int)
     parser.add_argument('--lr_Tcycle', default=10, type=int)
     parser.add_argument('--test_freq', default=1, type=int)
