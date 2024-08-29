@@ -2,6 +2,8 @@
 
 ### [Youngkil Song*](https://www.linkedin.com/in/youngkil-song-8936792a3/), [Dongkeun Kim*](https://dk-kim.github.io/), [Minsu Cho](https://cvlab.postech.ac.kr/~mcho/), [Suha Kwak](https://suhakwak.github.io/)
 
+### [Project Page](https://skhcjh231.github.io/MATR_project/) | [Paper](https://arxiv.org/abs/2408.02957)
+
 ## Requirements
 
 - Ubuntu 22.04
