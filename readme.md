@@ -50,10 +50,10 @@
 
 ## Citation
 
-If you find this code useful for your research, please cite our paper:
-@inproceedings{song2024online,
-        title={Online Temporal Action Localization with Memory-Augmented Transformer},
-        author={Song, Youngkil and Kim, Dongkeun and Cho, Minsu and Kwak, Suha},
-        booktitle={European Conference on Computer Vision},
-        year={2024},
-      }
+    If you find this code useful for your research, please cite our paper:
+    @inproceedings{song2024online,
+            title={Online Temporal Action Localization with Memory-Augmented Transformer},
+            author={Song, Youngkil and Kim, Dongkeun and Cho, Minsu and Kwak, Suha},
+            booktitle={European Conference on Computer Vision},
+            year={2024},
+          }
